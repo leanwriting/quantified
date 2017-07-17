@@ -6,3 +6,7 @@ categories: quantified
 ---
 
 ## Quantified Lean
+
+The purpose of this site is to show examples of how to apply lean to a process supported by underlying data...
+
+
